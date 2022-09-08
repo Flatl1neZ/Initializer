@@ -1,0 +1,22 @@
+#crypto {
+  padding: 40px 10px;
+}
+
+.init-container {
+  width: 100%;
+  max-width: 50%;
+  margin: auto;
+}
+
+.init-card {
+  background-color: #19202c;
+  border-radius: 5px;
+  padding: 30px 10px;
+}
+
+.init-table {
+  width: 100%;
+  border-radius: 0;
+  border-collapse: collapse;
+  text-align: center;
+}
