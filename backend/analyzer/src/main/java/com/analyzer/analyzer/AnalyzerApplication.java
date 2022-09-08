@@ -1,13 +1,13 @@
-package com.Initializer.Initializer;
+package com.analyzer.analyzer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class InitializerApplication {
+public class AnalyzerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(InitializerApplication.class, args);
+		SpringApplication.run(AnalyzerApplication.class, args);
 	}
 
 }

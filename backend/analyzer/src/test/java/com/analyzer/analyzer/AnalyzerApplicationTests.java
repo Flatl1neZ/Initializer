@@ -1,10 +1,10 @@
-package com.Initializer.Initializer;
+package com.analyzer.analyzer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class InitializerApplicationTests {
+class AnalyzerApplicationTests {
 
 	@Test
 	void contextLoads() {
